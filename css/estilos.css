@@ -1,0 +1,149 @@
+body {background-color: #000451;}
+
+
+#contenedor0{background-color:pink;
+width: 1200px;
+min-height: 1200px;
+margin: 0px auto;
+}
+#contenedor{background-color: #B81B37
+;
+width: 1200px;
+min-height: 1200px;
+margin: 0px auto;
+}
+
+#cabecera{background-color: #B81B37;
+width: 1200px;
+min-height: 200px;}
+h1{size: 7;
+float: right;
+padding-right: 450px;
+padding-top: 50px;
+font-family: Showcard Gothic;
+color: black;}
+
+#cuerpo{background-color:  #B81B37;
+width: 1200px;
+min-height: 900px;}
+
+
+#arriba{background-color: #B81B37;
+width: 1200px;
+min-height: 200px;
+float: left;
+}
+#subtitulo{padding: 20px 20px;
+font-family: Arial Black;
+font-size: 6;color: black;}
+
+#izquierda{background-color:#B81B37;
+width: 500px;
+min-height: 600px;
+float: left;}
+
+#uno{font-family: Arial Black;
+font-size: 5;
+padding: 0px 20px;
+color: black;}
+
+#dos{font-family: Arial Black;
+font-size: 5;
+padding: 0px 20px;
+color: black;}
+
+#tres{font-family: Arial Black;
+font-size: 5;
+padding: 0px 20px;
+color: black;}
+
+#derecha{background-color:#B81B37;
+min-width: 700px;
+min-height: 400px;
+float: left;}
+
+#gallery{min-height: 300px;
+width: 600px;
+background-color:  #B81B37;
+float: left;
+position: top;
+}
+
+li{list-style: none;}
+
+ul.gallery{list-style-type: none;
+float: left;}
+
+il .min{position: relative;
+top: 40px;
+left: 500px;
+padding: 10px;}
+
+il .max{visibility: hidden;
+position: absolute;
+top: 900px;
+left: 500px;
+padding: 10px;}
+
+a:hover .max{visibility: visible;}
+
+
+
+
+
+#formulario{background-color:#B81B37;
+width: 1200px;
+min-height: 300px;
+float: left;
+padding-top: 100px;
+color: black;}
+h2{float: left;
+padding-left: 450px;
+color: black;}
+
+#busqueda{float: right; padding-right: 600px;}
+
+#pie{background-color:#B81B37 ;
+width: 1200px;
+min-height: 300px;
+float: left;
+padding-top: 40px;}
+
+#contacto{width: 20px;
+height: 20px; 
+padding-left: 600px;
+}
+#instagram{padding-left: 450px; color: black; size: 7;
+font-family: Arial Black; color: black;}
+
+#gmail{padding-left: 450px; color: black; size: 7;
+font-family: Arial Black; color: black;}
+
+#telefono{padding-left: 350px; color: black; size: 7;
+font-family: Arial Black;
+padding-bottom: 40px; color: black;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
